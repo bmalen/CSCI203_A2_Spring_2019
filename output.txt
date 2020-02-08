@@ -1,0 +1,13 @@
+Number of customers served: 494
+Time taken to serve all customers: 276.886
+Greatest length reached by the customer queue: 33
+Average length of the customer queue: 12.4289
+Average customer waiting time in queue: 6.96637
+Percentage of customers with zero waiting time: 1.417%
+
+Server      Efficiency  Customers   Idle Time
+0           1.4         77          1.78
+1           0.5         177         4.421
+2           1.1         82          5.447
+3           1.1         89          6.378
+4           1.5         69          3.776
